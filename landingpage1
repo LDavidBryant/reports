@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            text-align: center;
+            padding: 2em;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>daytona.io</h1>
+        <p>Daytona Support Engineering - Reports</p>
+    </header>
+
+    <section>
+        <h2>Jira Reports</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet est auctor, efficitur lacus id,
+            suscipit libero.</p>
+    </section>
+
+    <section>
+        <h2>Internal Reports</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet est auctor, efficitur lacus id,
+            suscipit libero.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 daytona.io. All rights reserved.</p>
+    </footer>
+</body>
